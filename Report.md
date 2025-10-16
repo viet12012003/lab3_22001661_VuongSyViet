@@ -1,11 +1,5 @@
 # Báo cáo Lab 3 – Word Embeddings with Word2Vec
 
-- **MSSV**: 22001661
-- **Họ tên**: Vương Sỹ Việt
-- **Thư mục làm bài**: `F:/NLP/lab3_22001661_VuongSyViet/`
-
----
-
 ## 1. Các bước thực hiện
 
 - **[Task 1] Tải và sử dụng model có sẵn (Gensim)**
